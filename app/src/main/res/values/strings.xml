@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="roll">Roll</string>
+    <string name="_1">1</string>
+    <string name="click_here">feedback</string>
+    <string name="a_title">Love It</string>
+    <string name="a_message">Do you love this Dice?</string>
+
+</resources>
